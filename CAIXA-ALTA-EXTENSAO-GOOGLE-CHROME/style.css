@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    font-family: sans-serif;
+    color: black;
+}
+
+p {
+    font-size: 18px;
+}
+
+input {
+    outline: none;
+    border: 1px solid gray;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
+button {
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+#btn {
+    margin-bottom: 20px;
+}
+
+footer {
+    font-size: 12px;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+footer a:visited {
+    color: inherit;
+}
